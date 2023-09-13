@@ -2,7 +2,7 @@
 layout: single
 title: "[GPU_Programming] GPU 프로그래밍 소개"
 categories: GPU
-tag: [ CUDA, GPU Programming, Parallelization]
+tag: [ CUDA, GPU_Programming, Parallelization]
 toc: true
 author_profile: false
 sidebar:
