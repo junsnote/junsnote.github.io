@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junsnote Tech"
+title                    : "Juns Tech Note"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Junsnote"
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Junsnote"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/logo.jpg"
   bio              : "I am an **amazing** person."
   location         : "South Korea"
   email            : "yyt1186@gmail.com"
