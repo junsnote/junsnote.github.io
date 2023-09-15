@@ -74,7 +74,7 @@ author_profile: false
 	- 파이썬에 관심이 있다면 Theano, pyCUDA 
 		- Theano: https://en.wikipedia.org/wiki/Theano_(software) 
 		- pyCUDA: https://developer.nvidia.com/cuda-python 
-- • 향후 GPU 프로그래밍 환경
+- 향후 GPU 프로그래밍 환경
 
 # 커널
 - GPU에서 병렬 실행되는 명령어의 모음/함수이다.
@@ -154,7 +154,8 @@ author_profile: false
 	- 주로 *.c, *.cpp 등 특정 확장자를 가진 모든 파일을 다룰 때 용이
 - ?
 	- Ex) cp test? ./Dir1
-		- *과 유사하나, 단일 문제에만 적용됨. 예를 들어 test1, test2, testa와 같은 파일만 복사되며, test11과 같은 파일은 복사되지 않음.
+		- *과 유사하나, 단일 문제에만 적용됨. 
+        - 예를 들어 test1, test2, testa와 같은 파일만 복사되며, test11과 같은 파일은 복사되지 않음.
 - ./
 	- Ex) ./test.exe
 	- test.exe 파일을 실행시키려면 위와 같이 파일 앞에 ./ 입력
