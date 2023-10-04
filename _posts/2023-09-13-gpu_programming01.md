@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[GPU_Programming] 바이오&의료 데이터 병렬 처리"
+title: "[GPU_Programming_01] 바이오&의료 데이터 병렬 처리"
 categories: GPU
 tag: [Concurrent, Parallel, Distributed]
 toc: true
