@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[GPU_Programming] GPU 프로그래밍 소개"
+title: "[GPU_Programming_02] GPU 프로그래밍 소개"
 categories: GPU
 tag: [CUDA, GPU_Programming, Parallelization, Linux, Make]
 toc: true
