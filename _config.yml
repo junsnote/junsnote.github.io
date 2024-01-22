@@ -19,10 +19,10 @@ locale                   : "en-US"
 title                    : "Juns Tech Note"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Junsnote"
+name                     : "lv1231"
 description              : "An amazing website."
-url                      : "https://junsnote.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://lv1231.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/icon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "junsnote" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "lv1231" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Junsnote"
+  name             : "lv1231"
   avatar           : "/assets/images/logo.jpg"
   bio              : "I am an **amazing** person."
   location         : "South Korea"
@@ -115,7 +115,7 @@ author:
       # url: "mailto:email@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://github.com/junsnote"
+      # url: "https://github.com/lv1231"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/junsnote"
+      url: "https://github.com/lv1231"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/junsnote"
+      url: "https://github.com/lv1231"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
